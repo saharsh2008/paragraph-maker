@@ -1,0 +1,15 @@
+.container {
+    display: inline-block;
+    margin: 30px 150px;
+    border: 3px dashed black;
+    padding: 25px 50px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+#paragraph1, #paragraph2 {
+    max-width: 750px;
+    text-align: left;
+}
